@@ -19,8 +19,8 @@ Here you’ll find:
 
 ### 🤖 Discord Bots
 We’ve built several bots that are now public and available for use! Check out our repositories for detailed instructions on installation and usage:
-- **[404Utils](#)**: A Discord bot with util commands and a gateway feature.
-- **[404Tickets](#)**: A fully working ticket system.
+- **[404Utils](https://github.com/404-Organization-not-found/404Utils)**: A Discord bot with util commands and a gateway feature.
+- **[404Tickets](https://github.com/404-Organization-not-found/404TicketBot)**: A fully working ticket system.
 
 - Currently our discord bots are on V1 means in early development and there are updates coming.
 
