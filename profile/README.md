@@ -66,6 +66,12 @@ Thanks to all the amazing contributors in our community for making this possible
 ### 📬 Contact Us
 Have questions? Feel free to open an issue or reach out to us on Discord!
 
+<div align="center">
+    <a href="https://discord.gg/ufReEyNZ8A">
+        <img src="https://invidget.switchblade.xyz/ufReEyNZ8A" alt="Discord Banner">
+    </a>
+</div>
+
 ---
 
 > **“404: Organization not found, but the ideas and collaboration are endless.”**
